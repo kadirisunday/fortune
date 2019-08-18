@@ -1,0 +1,2 @@
+# fortune
+My first Repository
